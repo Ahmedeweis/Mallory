@@ -18,7 +18,7 @@ html {
 }
 body {
   font-family:serif; "Open Sans", sans-serif;
-  background-color:#D2DA98;
+  background-color:red;
 }
 ul {
   list-style: none;
@@ -149,7 +149,7 @@ i {
 }
 .landing::before {
   content:"";
-  background-color:#FCEC9B;
+  background-color:red;
   width:50%;
   position:absolute;
   height:60%;
@@ -280,7 +280,7 @@ i {
 }
 .landingg::before {
   content:"";
-  background-color:#F7CCC4;
+  background-color:red;
   width:50%;
   position:absolute;
   height:75%;
@@ -709,7 +709,7 @@ i {
 /* End Subscribe */
 
 .Color {
-  background-color:yellow;
+  background-color:red;
   margin-top:-80px;
 }
 /* Start Footer */
